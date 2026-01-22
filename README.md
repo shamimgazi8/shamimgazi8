@@ -26,8 +26,7 @@ Currently working on <b>Easy Fashion Limited ERP Solution</b>
   <a href="https://www.linkedin.com/in/shamimgazi83/" target="_blank">
     <img
       align="center"
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-      alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
       height="30"
       width="40"
     />
