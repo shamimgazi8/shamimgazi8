@@ -22,9 +22,17 @@ Currently working on <b>Easy Fashion Limited ERP Solution</b>
   <a href="https://instagram.com/shamim.g47" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/shamimgazi83/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/shamimgazi83/" target="_blank">
+    <img
+      align="center"
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
   </a>
+</p>
 </p>
 
 
